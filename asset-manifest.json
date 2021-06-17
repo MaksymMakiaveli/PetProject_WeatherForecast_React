@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WeatherProjectReact/static/css/main.717770d4.chunk.css",
+    "main.js": "/WeatherProjectReact/static/js/main.d5267f8f.chunk.js",
+    "main.js.map": "/WeatherProjectReact/static/js/main.d5267f8f.chunk.js.map",
+    "runtime-main.js": "/WeatherProjectReact/static/js/runtime-main.71a09c9f.js",
+    "runtime-main.js.map": "/WeatherProjectReact/static/js/runtime-main.71a09c9f.js.map",
+    "static/js/2.dfc19e9c.chunk.js": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js",
+    "static/js/2.dfc19e9c.chunk.js.map": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js.map",
+    "static/js/3.d8e151a9.chunk.js": "/WeatherProjectReact/static/js/3.d8e151a9.chunk.js",
+    "static/js/3.d8e151a9.chunk.js.map": "/WeatherProjectReact/static/js/3.d8e151a9.chunk.js.map",
+    "index.html": "/WeatherProjectReact/index.html",
+    "static/css/main.717770d4.chunk.css.map": "/WeatherProjectReact/static/css/main.717770d4.chunk.css.map",
+    "static/js/2.dfc19e9c.chunk.js.LICENSE.txt": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js.LICENSE.txt",
+    "static/media/favicon1-removebg-preview.e973610a.png": "/WeatherProjectReact/static/media/favicon1-removebg-preview.e973610a.png",
+    "static/media/preloader.bc912454.gif": "/WeatherProjectReact/static/media/preloader.bc912454.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a09c9f.js",
+    "static/js/2.dfc19e9c.chunk.js",
+    "static/css/main.717770d4.chunk.css",
+    "static/js/main.d5267f8f.chunk.js"
+  ]
+}
