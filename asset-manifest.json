@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/WeatherProjectReact/static/css/main.717770d4.chunk.css",
-    "main.js": "/WeatherProjectReact/static/js/main.d5267f8f.chunk.js",
-    "main.js.map": "/WeatherProjectReact/static/js/main.d5267f8f.chunk.js.map",
-    "runtime-main.js": "/WeatherProjectReact/static/js/runtime-main.71a09c9f.js",
-    "runtime-main.js.map": "/WeatherProjectReact/static/js/runtime-main.71a09c9f.js.map",
-    "static/js/2.dfc19e9c.chunk.js": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js",
-    "static/js/2.dfc19e9c.chunk.js.map": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js.map",
-    "static/js/3.d8e151a9.chunk.js": "/WeatherProjectReact/static/js/3.d8e151a9.chunk.js",
-    "static/js/3.d8e151a9.chunk.js.map": "/WeatherProjectReact/static/js/3.d8e151a9.chunk.js.map",
-    "index.html": "/WeatherProjectReact/index.html",
-    "static/css/main.717770d4.chunk.css.map": "/WeatherProjectReact/static/css/main.717770d4.chunk.css.map",
-    "static/js/2.dfc19e9c.chunk.js.LICENSE.txt": "/WeatherProjectReact/static/js/2.dfc19e9c.chunk.js.LICENSE.txt",
-    "static/media/favicon1-removebg-preview.e973610a.png": "/WeatherProjectReact/static/media/favicon1-removebg-preview.e973610a.png",
-    "static/media/preloader.bc912454.gif": "/WeatherProjectReact/static/media/preloader.bc912454.gif"
+    "main.css": "/react-gh-pages/static/css/main.5f351b26.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.6a6b1ac4.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.6a6b1ac4.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.bbc3adb9.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.bbc3adb9.js.map",
+    "static/js/2.e7f4d3f3.chunk.js": "/react-gh-pages/static/js/2.e7f4d3f3.chunk.js",
+    "static/js/2.e7f4d3f3.chunk.js.map": "/react-gh-pages/static/js/2.e7f4d3f3.chunk.js.map",
+    "static/js/3.729b17ae.chunk.js": "/react-gh-pages/static/js/3.729b17ae.chunk.js",
+    "static/js/3.729b17ae.chunk.js.map": "/react-gh-pages/static/js/3.729b17ae.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.5f351b26.chunk.css.map": "/react-gh-pages/static/css/main.5f351b26.chunk.css.map",
+    "static/js/2.e7f4d3f3.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.e7f4d3f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71a09c9f.js",
-    "static/js/2.dfc19e9c.chunk.js",
-    "static/css/main.717770d4.chunk.css",
-    "static/js/main.d5267f8f.chunk.js"
+    "static/js/runtime-main.bbc3adb9.js",
+    "static/js/2.e7f4d3f3.chunk.js",
+    "static/css/main.5f351b26.chunk.css",
+    "static/js/main.6a6b1ac4.chunk.js"
   ]
 }
