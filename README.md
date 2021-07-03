@@ -9,3 +9,6 @@ ___
    * Redux-thunk
    * Axios
    * Material-UI
+
+
+##### API : https://openweathermap.org/api
