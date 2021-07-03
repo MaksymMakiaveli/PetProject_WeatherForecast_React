@@ -1,2 +1,4 @@
 # Weather application
-React/Redux
+___
+## *GitHub pages:*  https://maksymmakiaveli.github.io/WeatherProjectReact/
+___
