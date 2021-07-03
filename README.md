@@ -1,1 +1,2 @@
 # Weather application
+React/Redux
