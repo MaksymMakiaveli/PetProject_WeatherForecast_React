@@ -4,4 +4,4 @@ ___
 ___
 
 ### Stack
-   *React
+* React
