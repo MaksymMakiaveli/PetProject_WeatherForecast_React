@@ -5,7 +5,7 @@ ___
 
 ###  Stack
    * ReactJS
-   * Redux
+   * Redux 
    * Redux-thunk
    * Axios
    * Material-UI
